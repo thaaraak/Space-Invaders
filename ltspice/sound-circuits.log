@@ -1,22 +1,23 @@
 Circuit: * Z:\home\xenir\git\Space-Invaders\ltspice\sound-circuits.asc
 
-.OP point found by inspection.
+WARNING: Less than two connections to node N036.  This node is used by R4.
+Direct Newton iteration for .op point succeeded.
 
-Date: Thu Oct 06 15:46:45 2022
-Total elapsed time: 15.837 seconds.
+Date: Fri Oct 07 10:45:35 2022
+Total elapsed time: 41.042 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 755866
-traniter = 755866
-tranpoints = 291095
-accept = 217399
-rejected = 73696
-matrix size = 173
-fillins = 86
+totiter = 1125269
+traniter = 1125224
+tranpoints = 413226
+accept = 310010
+rejected = 103216
+matrix size = 215
+fillins = 115
 solver = Normal
-Thread vector: 19.9/10.9[4] 7.1/4.0[4] 4.0/2.5[4] 1.2/1.9[1]  2592/500
-Matrix Compiler1: 17.56 KB object code size  3.7/2.7/[1.8]
-Matrix Compiler2: 17.52 KB object code size  1.7/3.2/[1.5]
+Thread vector: 21.0/11.9[6] 10.2/6.0[6] 5.2/3.6[6] 1.2/3.1[1]  2592/500
+Matrix Compiler1: 21.92 KB object code size  7.2/3.0/[1.7]
+Matrix Compiler2: 21.88 KB object code size  2.9/5.9/[1.6]
 
