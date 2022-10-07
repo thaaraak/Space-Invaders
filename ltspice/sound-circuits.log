@@ -1,24 +1,22 @@
-Circuit: * Z:\home\xenir\kicad\Space-Invaders\ltspice\sound-circuits.asc
+Circuit: * Z:\home\xenir\git\Space-Invaders\ltspice\sound-circuits.asc
 
-WARNING: Less than two connections to node N036.  This node is used by R4.
-Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 0.036 to 0.036
+.OP point found by inspection.
 
-Date: Thu Oct 06 11:38:56 2022
-Total elapsed time: 1.026 seconds.
+Date: Thu Oct 06 15:46:45 2022
+Total elapsed time: 15.837 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 34717
-traniter = 34672
-tranpoints = 15475
-accept = 12314
-rejected = 3162
-matrix size = 215
-fillins = 118
+totiter = 755866
+traniter = 755866
+tranpoints = 291095
+accept = 217399
+rejected = 73696
+matrix size = 173
+fillins = 86
 solver = Normal
-Thread vector: 12.0/8.6[6] 13.1/5.0[6] 7.7/2.5[6] 0.9/2.3[1]  2592/500
-Matrix Compiler1: 22.16 KB object code size  9.1/4.5/[2.1]
-Matrix Compiler2: 21.90 KB object code size  3.9/6.7/[1.0]
+Thread vector: 19.9/10.9[4] 7.1/4.0[4] 4.0/2.5[4] 1.2/1.9[1]  2592/500
+Matrix Compiler1: 17.56 KB object code size  3.7/2.7/[1.8]
+Matrix Compiler2: 17.52 KB object code size  1.7/3.2/[1.5]
 
