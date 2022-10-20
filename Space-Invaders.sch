@@ -2525,8 +2525,6 @@ Wire Wire Line
 Connection ~ 1750 7650
 Wire Wire Line
 	1750 7650 1750 7825
-Wire Wire Line
-	1925 7650 1750 7650
 $Comp
 L Xenir:Resistor R?
 U 1 1 63B45B63
